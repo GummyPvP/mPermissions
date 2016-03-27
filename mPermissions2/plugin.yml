@@ -1,0 +1,13 @@
+name: mPermissions
+version: 0.1
+main: mpermissions.main.Main
+description: Permissions plugin.
+commands:
+  permissions:
+    usage: /<command> [args]
+    permission: mpermissions.modify
+    aliases: [pex, perms, permission]
+  listgroups:
+    usage: /<command>
+    permission: mpermissions.listgroups
+    aliases: [grouplist]
