@@ -2,7 +2,7 @@ name: mPermissions
 version: 0.1
 main: mpermissions.main.Main
 description: Permissions plugin.
-authors: [Googlelover1234, xXkguyXx]
+authors: [Googlelover1234, xXkguyXx(Karan)]
 commands:
   permissions:
     usage: /<command> [args]
