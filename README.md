@@ -1,3 +1,3 @@
 # mPermissions
 
-Permissions plugin made for GummnyPvP
+Plugin that manages permissions and implements them into GummyPvP.
